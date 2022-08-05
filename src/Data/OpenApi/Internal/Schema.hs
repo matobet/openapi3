@@ -46,6 +46,7 @@ import Data.List (sort)
 import Data.List.NonEmpty.Compat (NonEmpty)
 import Data.Map (Map)
 import Data.Maybe (fromMaybe)
+import Data.Monoid
 import Data.Proxy
 import Data.Scientific (Scientific)
 import Data.Fixed (Fixed, HasResolution, Pico)
